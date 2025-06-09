@@ -1,10 +1,10 @@
-<!-- 请按照以下模板填写，填写完后删除模板文字 -->
+<!-- 请按照以下模板填写，填写完后删除模板文字 -->`
 
 # 课程名
 
 ## 基本信息
 
-- 专业A：![](https://img.shields.io/badge/必修-4学分-blue)
+- 专业C：![](https://img.shields.io/badge/必修-4学分-blue)
   - 老师A：![](https://img.shields.io/badge/作业-20%25-blue) ![](https://img.shields.io/badge/论文-20%25-yellow) ![](https://img.shields.io/badge/考试-60%25-red)
   - 老师B：![](https://img.shields.io/badge/作业-20%25-blue) ![](https://img.shields.io/badge/论文-20%25-yellow) ![](https://img.shields.io/badge/考试-60%25-red)
 - 专业B：![](https://img.shields.io/badge/必修-4学分-blue)
